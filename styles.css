@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+.parent{
+	display : flex;
+	flex-flow:row wrap;
+	justify-content:space-between;
+}
+
+.item{
+	
+}
